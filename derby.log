@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri May 11 09:00:09 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0163-4f49-8af5-000006c08ec0 
+on database directory memory:/Users/awe/proj/software/practice/java/course-api-ext-data/testdb with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/Users/awe/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/Users/awe/proj/software/practice/java/course-api-ext-data
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.4
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
